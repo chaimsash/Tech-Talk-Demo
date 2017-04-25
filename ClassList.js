@@ -30,3 +30,5 @@ export default ClassList =
         "githubImage": "https://avatars3.githubusercontent.com/u/22896516?v=3"
     }
 ]
+
+git rebase --onto master~1 master~3 master
